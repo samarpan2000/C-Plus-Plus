@@ -86,10 +86,10 @@ int main() {
 	//str.append("end");
 	//	cout<<str<<endl;
 	
-	cout<<"enter any sentence ";
-	fgets(output,1000,stdin);
+	//cout<<"enter any sentence ";
+	//fgets(output,1000,stdin);
 
-	cout<<output<<endl;
+	//cout<<output<<endl;
 
 	return 0;
 }
